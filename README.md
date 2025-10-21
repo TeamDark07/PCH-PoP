@@ -141,13 +141,15 @@ This project uses a dual-licensing model to balance open learning with intellect
 -   All Python source code located in the `/examples` directory is licensed under the [**MIT License**](./LICENSE).
 
 ---
-## :european_union: European Commission Publication
+## :mortar_board: European Commission Publication
 
 This handbook has been officially published on the **Futurium platform** of the **European Commission**, under the **AI Alliance** community.
 
 > **Link:** [Introducing The Python Concurrency Handbook: Building Reliable AI for Europe's Digital Future](https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/introducing-python-concurrency-handbook-building-reliable-ai-europes-digital-future)
 
 This publication signifies the handbook's alignment with the EU's goals of fostering a competitive, reliable, and human-centric AI ecosystem. It serves as a resource for developers, engineers, and policymakers across Europe to build the high-performance, scalable, and trustworthy AI applications that will power Europe's digital future.
+
+---
 
 ## About the Author
 
